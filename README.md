@@ -1,7 +1,7 @@
 # Lab11Web 
 
-###### Nama : Fara Deviana
-###### NIM : 312010407
+###### Nama : Veronika Rustiani Dame
+###### NIM : 312010325
 ###### Kelas : TI.A.2
 
 
